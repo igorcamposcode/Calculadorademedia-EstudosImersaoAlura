@@ -1,0 +1,77 @@
+body {
+    font-family:"Roboto mono",monospace;
+    min-height:400px;
+    background-color: brown;
+    background-size: 40vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+}
+
+.container {
+    text-align: center;
+    padding:30px;
+    height:100vh;
+}
+
+.page-title {
+    text-align:center;
+    color: rgb(58, 216, 216);
+    margin:0 0 5px;
+}
+
+.page-subtitle {
+    text-align: center;
+    color: rgb(58, 216, 216);
+    margin-top:5px;
+}
+
+.page-logo {
+    width:200px;
+}
+
+#formulario{
+    text-align: center;
+    color: rgb(24, 70, 97);
+    background-color: rgb(189, 132, 85);
+    background-image: 
+    url("https://imagensemoldes.com.br/wp-content/uploads/2020/01/Super-Mario-Personagens-Super-Mario-PNG-01.png");
+    background-size: 50vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    width: 330px;
+    height: 520px;
+    border-radius: 20px;
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form_group{
+    margin: 15px;
+    font-size: 23px;
+    font-weight: 650;
+}
+
+.soma{
+    text-align: center;
+    color: rgb(4, 5, 5);
+    font-size: 18px;
+    padding: 8px;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+#resultado{
+    font-size: 30px;
+    font-weight: 650;
+}
+
+.alura-logo {
+    width:40px;
+    position: absolute;
+    top:10px;
+    right:10px;
+}
+
